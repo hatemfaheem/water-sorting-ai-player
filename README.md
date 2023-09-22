@@ -6,7 +6,7 @@
 
 <p>A fully automated AI player that plays water sorting puzzle game on mobile phones.</p>
 
-<a href="https://youtu.be/qre8b8_nPd0?feature=shared">
+<a href="https://youtu.be/qre8b8_nPd0?feature=shared" target="_blank">
     <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" width="50">
 </a>
 
